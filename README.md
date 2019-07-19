@@ -13,6 +13,9 @@ nginx
 ---
 ---
 react,native
+
+---
+typescript
 ---
 数据结构与算法，设计模式与应用
 ---
